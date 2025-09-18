@@ -4,3 +4,18 @@ Delivers working features early and continuously.
 Agile cons
 Harder to predict cost, scope, and timelines.
 Requires constant collaboration and stakeholder input.
+
+Scrum Master vs Product owner
+
+Scrum Master:
+- Facilitates Scrum process and removes blockers.
+- Leads meetings and supports team improvement.
+
+Product Owner:
+- Manages product backlog and priorities.
+- Defines vision and communicates with stakeholders.
+
+
+
+
+
