@@ -15,6 +15,19 @@ Product Owner:
 - Manages product backlog and priorities.
 - Defines vision and communicates with stakeholders.
 
+MeetingTypes
+
+1. Sprint Planning
+   - Define sprint goal and select backlog items.
+   - Break down tasks and estimate effort.
+
+2. Daily Stand-up
+   - Share what was done yesterday and plan for today.
+   - Discuss blockers or obstacles.
+
+3. Sprint Review
+   - Demonstrate completed features to stakeholders.
+   - Collect feedback to update backlog.
 
 
 
