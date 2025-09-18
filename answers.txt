@@ -30,5 +30,22 @@ MeetingTypes
    - Collect feedback to update backlog.
 
 
+IssueTypes
+
+Epic:
+- Large body of work, big feature or initiative.
+- Broken down into multiple stories/tasks.
+
+Story:
+- End-user functionality or requirement.
+- Delivers value to the customer.
+
+Bug:
+- Error or defect in the product.
+- Needs fixing to restore expected behavior.
+
+Task:
+- General work item (not always user-facing).
+- Supports stories, bugs, or epics.
 
 
