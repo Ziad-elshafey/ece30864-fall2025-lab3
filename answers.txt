@@ -1,0 +1,6 @@
+Agile Pros
+Flexible and adapts easily to changing requirements.
+Delivers working features early and continuously.
+Agile cons
+Harder to predict cost, scope, and timelines.
+Requires constant collaboration and stakeholder input.
